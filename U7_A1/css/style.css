@@ -1,0 +1,148 @@
+body {
+    font-style: oblique;
+    background-image: url(../img/aumentar\ la\ interacción\ en\ redes\ sociales.webp);}
+
+h2 {
+    color: rgb(0, 0, 0);
+    text-align: right;
+    padding-right: 20px;}
+
+h3 {
+    text-align: center;
+    color: rgb(0, 0, 0);}
+.pequeña {
+    height: 300px;
+}
+#cuerpo {
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: initial;
+    }
+
+#cabecera {
+    color: rgb(0, 0, 0);
+    background-color: rgb(150, 231, 245);
+    padding-bottom: 20px;
+    padding-top: 10px;
+    height: 80px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(../img/fondo-degradado-borroso-abstracto-fondo-monotono-color-azul-o-azul-cielo-plantilla-banner_335640-729.avif);}
+
+.cabecerafondo {
+    color: black;
+    font-style: italic;}
+
+.noticiaimportante {
+    background-color: rgb(240, 89, 89);}
+
+#c1 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(150, 231, 245);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+#c2 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(150, 231, 245);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    background-image: url(../img/fondo-degradado-borroso-abstracto-fondo-monotono-color-azul-o-azul-cielo-plantilla-banner_335640-729.avif);}
+
+#c3 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(150, 231, 245);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    background-image: url(../img/fondo-degradado-borroso-abstracto-fondo-monotono-color-azul-o-azul-cielo-plantilla-banner_335640-729.avif);}
+
+#c4 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(150, 231, 245);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    border: 1px solid black;}
+    
+#c5 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(150, 231, 245);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    background-image: url(../img/fondo-degradado-borroso-abstracto-fondo-monotono-color-azul-o-azul-cielo-plantilla-banner_335640-729.avif);}
+    
+#c6 {
+    color: rgb(0, 0, 0);
+    background-color: rgb(150, 231, 245);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    background-image: url(./img/fondo-degradado-borroso-abstracto-fondo-monotono-color-azul-o-azul-cielo-plantilla-banner_335640-729.avif);
+    text-align: center;}
+
+#contenidobajo {
+    color: rgb(0, 0, 0);
+    background-color: rgb(150, 231, 245);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    background-image: url(../img/fondo-degradado-borroso-abstracto-fondo-monotono-color-azul-o-azul-cielo-plantilla-banner_335640-729.avif);  }
+
+.noticia1 {
+    margin-right: 10px;
+    text-align: center;
+    margin-left: 10px;}
+
+.noticia2 {
+    margin-right: 10px;
+    text-align: center;
+    margin-left: 10px;}
+
+.noticiaimportante {
+    margin-right: 10px; 
+    text-align: center;
+    margin-left: 10px;
+    border: 1px solid black;}
+
+.noticia4 {
+    margin-right: 10px;
+    text-align: center;
+    margin-left: 10px;}
+
+.noticia5 {
+    margin-right: 10px;
+    text-align: center;
+    margin-left: 10px;}
+    
+.noticia6 {
+    margin-right: 10px;
+    text-align: center;
+    margin-left: 10px;}
+
+.noticia7 {
+    margin-right: 10px;
+    text-align: center;
+    margin-left: 10px;}
+
+.partebaja {
+    margin: 10px;
+    text-align: center;
+    color: white;
+    background-color: limegreen;
+    background-image: url(../img/fondo-degradado-borroso-abstracto-fondo-monotono-color-azul-o-azul-cielo-plantilla-banner_335640-729.avif);}
+
+.textoimportante {
+    padding: 10px;
+    margin: 10px;}
+
+    .widget{
+        padding-left: 100px;
+    }
